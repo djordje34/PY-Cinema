@@ -1,0 +1,23 @@
+76 "The Godfather" 175 9.2
+77 "Guardians of The Galaxy" 110 8.0
+78 Terrifier 80 5.6
+79 "Pulp Fiction" 112 8.9
+81 "House of Gucci" 158 6.6
+82 Psycho 109 8.5
+83 "10 Things I Hate About You" 97 7.3
+84 "American Psycho" 102 7.6
+85 Seven 127 8.6
+86 "Iron Man" 126 7.9
+87 "Ford v Ferrari" 152 8.1
+89 "2001: A Space Oddisey" 149 8.3
+90 "Thor: Ragnarok" 130 7.9
+92 "Who Am I" 102 7.5
+93 "Requiem For A Dream" 102 8.3
+81 "House of Gucci" 158 6.6
+95 "Fight Club" 139 8.8
+97 "Once Upon A Time in Hollywood" 161 7.6
+98 "Reservoir Dogs" 99 8.3
+99 "Donnie Darko" 113 8.0
+100 Deadpool 108 8.0
+101 "Django Unchained" 165 8.4
+102 Coraline 100 7.7
